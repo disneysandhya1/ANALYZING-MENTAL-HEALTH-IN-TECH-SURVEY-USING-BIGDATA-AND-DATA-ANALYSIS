@@ -1,14 +1,6 @@
 ```markdown
 # Mental Health in Tech: Big Data & Machine Learning Insights
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-3.x-E25A1C?logo=apachespark&logoColor=white)
-![MLlib](https://img.shields.io/badge/MLlib-Spark-blueviolet)
-![Pandas](https://img.shields.io/badge/Pandas-1.x-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-1.x-013243?logo=numpy&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-Dashboards-1F2544)
-![License](https://img.shields.io/badge/License-Choose%20a%20License-green)
-
 Data-driven insights aren’t just numbers—they’re the key to unlocking better mental well-being for tech professionals worldwide. 🧠
 
 ---
